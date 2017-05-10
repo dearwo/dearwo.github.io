@@ -3,9 +3,13 @@
   <entry>
     <title><![CDATA[MarkDown]]></title>
     <url>%2F2017%2F05%2F10%2FMarkDown%2F</url>
-    <content type="text"><![CDATA[标签： MarkDown基本语法MarkDown基本语法MarkDown基本语法MarkDown基本语法MarkDown基本语法MarkDown基本语法 加粗： 今天下午没有课 代码： ``` javascriptvar a=0;console.log(a); 超链接： 我是超链接 插入图片：]]></content>
+    <content type="text"><![CDATA[标题： MarkDown基本语法MarkDown基本语法MarkDown基本语法MarkDown基本语法MarkDown基本语法MarkDown基本语法 加粗： 今天下午没有课 代码： ``` javascriptvar a=0;console.log(a); 超链接： 我是超链接 插入图片：]]></content>
+      <categories>
+        <category>Markdown语法</category>
+      </categories>
       <tags>
-        <tag>Markdown 前端</tag>
+        <tag>前端工具</tag>
+        <tag>Markdown</tag>
       </tags>
   </entry>
   <entry>
